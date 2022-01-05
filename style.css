@@ -1,0 +1,192 @@
+.textoz{
+    font-size: 80%;
+}
+.text{
+font-family: Montserrat;
+font-size: 95%;
+font-style: normal;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.item1{
+background-color:  #FF00D6;
+font-family: Montserrat;
+font-size: 100%;
+font-style: normal;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+
+.text1{
+font-family: Montserrat;
+font-weight: 700;
+color: black;
+}
+.font1{
+    font-size: 130%;
+    text-align: center;
+}
+
+.text2{
+font-family: Montserrat;
+font-weight: 550;
+}
+
+.img{
+    width: 100%;
+}
+
+.list{
+    cursor: pointer;
+    list-style-type: none;
+}
+
+.profileimage{
+    height: 40%;
+    width: 10%;
+}
+.edit{
+    text-align: center;
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+    background-color: #eee;
+    font-family: 'Poppins', sans-serif
+}
+
+
+
+.fs-10 {
+    font-size: 84%;
+    cursor:pointer;
+}
+
+.style1{
+    margin-left: 17%;
+    font-family: Montserrat;
+    font-weight: 550;
+}
+.t1{
+    margin-left: 1%;
+
+    font-family: Montserrat;
+    font-weight: 800;
+}
+
+.grid1
+{
+  display: grid;
+  grid-template-columns: 20% 75%;
+  margin-left: 6%;
+  font-family: Montserrat;
+  
+
+}
+.imagefooter{
+    padding-top: 10%;
+    width: 100%;
+    height: 80%;
+} 
+.t1{
+    font-weight: 700;
+   
+}
+.grid2
+{
+  display: grid;
+  grid-template-columns: 20% 75%;
+  margin-left: 0%;
+  font-family: Montserrat;
+  
+
+}
+.advertisement1{
+    padding-top: 6%;
+    height: 1%;
+    width: 100%;
+    
+}
+
+.advertisement2{
+    padding-top: 6%;
+    height: 80%;
+    width: 100%;
+}
+
+.grid3{
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10%;
+}
+.shareimage{
+    width: 100%;
+    padding: 10%;
+}
+
+.comment1
+{
+    display: grid;
+    grid-template-columns: 10% 90%;
+    margin: 2% 0 2% 0;
+   
+}
+.image1234{
+    max-width: 30px;
+    height: auto;
+   border-radius: 100%;
+    width: 60%;
+    margin-left: 30%;
+    
+}
+.content
+{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    border: none;
+    -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.03);
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.03);
+    cursor: pointer;
+    
+}
+
+.paragraph{
+   margin: 0; 
+   padding:0;
+}
+
+.reaction{
+    margin-top: 2%;
+    display: grid;
+    grid-template-columns: 25% 20%;
+   
+}
+.icon{
+    height: auto;
+    width: 100%;
+}
+.like{
+    
+    display: grid;
+    grid-template-columns: 20% 80%;
+    
+
+}
+.p1{
+    padding-top: 5%;
+}
+.addcomment{
+    background-color: red
+    
+}
